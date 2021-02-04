@@ -1,0 +1,5 @@
+classes= 2
+train  = /content/Tinyyolo/train.txt
+valid  = /content/Tinyyolo/valid.txt
+names = /content/Tinyyolo/obj.names
+backup = backup/
